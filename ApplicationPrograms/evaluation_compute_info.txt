@@ -1,0 +1,17 @@
+connection: host=127.0.0.1 dbname=BMCC user=postgres password=1017
+grid_tablename: grid_0_1
+cellinfo_tablename: cells20120217_yql
+maincell_tablename: field_gsm900
+inter_tablename:field_gsm900_interf_yql
+time: 20120323
+celltype:SECTOR
+frequency:900
+networksort:GSM900
+cellcover_path_name:F:\\BMCC\\FinalResult\\field
+geo_path_name:F:\\BMCC\\FinalResult\\geo_info
+mrinfo_path_name:F:\\BMCC\\FinalResult\\mrtraffic
+tchinter_neighbor_path_name:F:\\BMCC\\FinalResult\\tchinterference\\tchinterference_neighborfre_GSM900
+tchinter_same_path_name:F:\\BMCC\\FinalResult\\tchinterference\\tchinterference_samefre_GSM900
+result_path_name:F:\\BMCC
+region_info:359617946 630 1060
+To_Big_Matrix:true
